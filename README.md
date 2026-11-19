@@ -41,9 +41,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name:S.R.AMIRTHA
+### Name: Raviprasath K
 
-### Register Number:212224220009
+### Register Number:212224230225
 
 ```
 import torch
